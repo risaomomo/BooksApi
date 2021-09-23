@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "cpmpXeFeYptXXlOU2wk57TUr3MUmjg5BrliNr7HUW/CxW/Ycay1FtsgPkxK+3eXpzTtBer19MdBOa5UrnRBnxw==",
+  "dgSpecHash": "jfcdU8SYToCXFRcYxytupuCpEekYqfYbEN9imov8/W9XY0qnIkq4qf9lyLtWGWljald7jKtnXGCYqmeFE12G2w==",
   "success": true,
   "projectFilePath": "D:\\portableRisa\\dev\\BooksApi\\BooksApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "D:\\portableRisa\\dev\\Risa\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "D:\\portableRisa\\dev\\Risa\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "D:\\portableRisa\\dev\\Risa\\.nuget\\packages\\mongodb.bson\\2.13.1\\mongodb.bson.2.13.1.nupkg.sha512",
+    "D:\\portableRisa\\dev\\Risa\\.nuget\\packages\\mongodb.driver\\2.13.1\\mongodb.driver.2.13.1.nupkg.sha512",
+    "D:\\portableRisa\\dev\\Risa\\.nuget\\packages\\mongodb.driver.core\\2.13.1\\mongodb.driver.core.2.13.1.nupkg.sha512",
+    "D:\\portableRisa\\dev\\Risa\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.2\\mongodb.libmongocrypt.1.2.2.nupkg.sha512",
+    "D:\\portableRisa\\dev\\Risa\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "D:\\portableRisa\\dev\\Risa\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "D:\\portableRisa\\dev\\Risa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "D:\\portableRisa\\dev\\Risa\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
   "logs": []
 }
